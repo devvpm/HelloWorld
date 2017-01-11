@@ -1,0 +1,13 @@
+{
+  "name": "slader/helloWorld",
+  "type": "component",
+  "version": "1.0.0",
+  "extra": {
+    "component": {
+      "scripts": ["dist/helloWorld.js"]
+    }
+  },
+  "require": {
+    "robloach/component-installer": "*"
+  }
+}
